@@ -63,4 +63,4 @@ class GameViewModel: ViewModel() {
         circleX += x
         circleY += y
     }
-}
+ }
