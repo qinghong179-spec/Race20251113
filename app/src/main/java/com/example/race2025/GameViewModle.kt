@@ -1,4 +1,4 @@
-package tw.edu.pu.csim.qinghong179-spec.race2025
+package tw.edu.pu.csim.qinghong179-spec.race
 
 import androidx.compose.runtime.getValue
 import androidx.compose.runtime.mutableStateOf

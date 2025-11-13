@@ -1,4 +1,4 @@
-package tw.edu.pu.csim.qinghong179-spec.race2025
+package tw.edu.pu.csim.qinghong179-spec.race
 
 import android.content.pm.ActivityInfo
 import android.os.Bundle
@@ -10,10 +10,10 @@ import androidx.compose.foundation.layout.fillMaxSize // 確保這個引用還�
 import androidx.core.view.WindowCompat
 import androidx.core.view.WindowInsetsCompat
 import androidx.window.layout.WindowMetricsCalculator
-import tw.edu.pu.csim.qinghong179-spec.race2025.ui.theme.RaceTheme
+import tw.edu.pu.csim.qinghong179-spec.race.ui.theme.RaceTheme
 
 // 確保有引入 GameScreen
-import tw.edu.pu.csim.qinghong179-spec.race2025.GameScreen // 如果放在同一個 package 內則可省略
+import tw.edu.pu.csim.qinghong179-spec.race.GameScreen // 如果放在同一個 package 內則可省略
 
 class MainActivity : ComponentActivity() {
 
